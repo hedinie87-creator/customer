@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "搜索广告｜关键词与竞价事实库",
+    "positioning": "客户主动搜索，我花钱让自己出现。",
+    "last_updated": "2026-09-04",
+    "data_rule": "区分实际搜索结果、平台官方资料、公开估算和 LANSEN 实投数据；没有可验证数值就留空，不用猜测值代替。",
+    "current_lansen_campaign_data": false
+  },
+  "keyword_groups": [
+    {
+      "type": "产品词",
+      "keywords": [
+        "bathroom wall panels",
+        "waterproof wall panels",
+        "shower wall panels",
+        "wall panels for bathrooms"
+      ]
+    },
+    {
+      "type": "供应商词",
+      "keywords": [
+        "bathroom wall panel supplier",
+        "waterproof wall panel supplier",
+        "wall panel supplier USA",
+        "bathroom panel supplier"
+      ]
+    },
+    {
+      "type": "制造商词",
+      "keywords": [
+        "bathroom wall panel manufacturer",
+        "waterproof wall panel manufacturer",
+        "PVC wall panel manufacturer",
+        "bathroom panel manufacturer"
+      ]
+    },
+    {
+      "type": "应用词",
+      "keywords": [
+        "commercial bathroom wall panels",
+        "hotel bathroom wall panels",
+        "healthcare wall panels",
+        "commercial shower wall panels"
+      ]
+    },
+    {
+      "type": "问题词",
+      "keywords": [
+        "waterproof bathroom wall panels",
+        "mold resistant bathroom wall panels",
+        "easy clean bathroom wall panels"
+      ]
+    },
+    {
+      "type": "采购词",
+      "keywords": [
+        "bathroom wall panels wholesale",
+        "bulk bathroom wall panels",
+        "bathroom wall panel distributor"
+      ]
+    },
+    {
+      "type": "技术/比较词",
+      "keywords": [
+        "PVC wall panels vs compact laminate",
+        "bathroom wall panel material",
+        "compact laminate bathroom panels"
+      ]
+    }
+  ],
+  "official_sources": [
+    {
+      "platform": "Google Ads",
+      "title": "Keyword Planner",
+      "description": "Google Keyword Planner 可发现关键词、查看搜索量估算，并查看关键词广告成本/出价估算；Google 明确说明实际表现会受到出价、预算、广告质量、地区定位及用户行为等因素影响。",
+      "url": "https://support.google.com/google-ads/answer/7337243?hl=en"
+    },
+    {
+      "platform": "Google Ads",
+      "title": "Responsive Search Ads",
+      "description": "RSA 由多个标题和描述资产组合生成。当前官方说明为最多 15 个标题、4 个描述；单个标题最多 30 字符、描述最多 90 字符。",
+      "url": "https://support.google.com/google-ads/answer/7684791?hl=en"
+    },
+    {
+      "platform": "Google Ads",
+      "title": "Keyword Planning API",
+      "description": "Google Ads API 可获取关键词 ideas、历史指标和 forecast metrics，可按地区、语言等参数规划关键词。",
+      "url": "https://developers.google.com/google-ads/api/docs/keyword-planning/overview"
+    }
+  ],
+  "records": [
+    {
+      "id": "kw-001",
+      "keyword": "bathroom wall panels",
+      "keyword_type": "产品词",
+      "country": "US",
+      "language": "English",
+      "search_engine": "Google",
+      "search_date": "",
+      "ad_present": "待实测",
+      "advertiser": "",
+      "ad_position": "",
+      "ad_format": "",
+      "headline": "",
+      "description": "",
+      "landing_page": "",
+      "screenshot": "",
+      "source_url": "",
+      "data_type": "关键词候选",
+      "cpc": "",
+      "cpc_currency": "USD",
+      "cpc_source": "",
+      "ctr": "",
+      "cpl": "",
+      "commercial_intent": "产品需求",
+      "lansen_relevance": "核心产品词；后续用 Keyword Planner + 实际搜索结果验证搜索量、竞争度、出价和广告主。"
+    },
+    {
+      "id": "kw-002",
+      "keyword": "bathroom wall panel manufacturer",
+      "keyword_type": "制造商词",
+      "country": "US",
+      "language": "English",
+      "search_engine": "Google",
+      "search_date": "",
+      "ad_present": "待实测",
+      "advertiser": "",
+      "ad_position": "",
+      "ad_format": "",
+      "headline": "",
+      "description": "",
+      "landing_page": "",
+      "screenshot": "",
+      "source_url": "",
+      "data_type": "关键词候选",
+      "cpc": "",
+      "cpc_currency": "USD",
+      "cpc_source": "",
+      "ctr": "",
+      "cpl": "",
+      "commercial_intent": "供应商寻找",
+      "lansen_relevance": "比单纯产品词更接近供应商筛选场景；仍需实际数据验证。"
+    },
+    {
+      "id": "kw-003",
+      "keyword": "waterproof wall panel supplier",
+      "keyword_type": "供应商词",
+      "country": "US",
+      "language": "English",
+      "search_engine": "Google",
+      "search_date": "",
+      "ad_present": "待实测",
+      "advertiser": "",
+      "ad_position": "",
+      "ad_format": "",
+      "headline": "",
+      "description": "",
+      "landing_page": "",
+      "screenshot": "",
+      "source_url": "",
+      "data_type": "关键词候选",
+      "cpc": "",
+      "cpc_currency": "USD",
+      "cpc_source": "",
+      "ctr": "",
+      "cpl": "",
+      "commercial_intent": "供应商寻找",
+      "lansen_relevance": "与防水墙板供应场景直接相关；适合后续验证广告主与落地页。"
+    },
+    {
+      "id": "kw-004",
+      "keyword": "bathroom wall panels wholesale",
+      "keyword_type": "采购词",
+      "country": "US",
+      "language": "English",
+      "search_engine": "Google",
+      "search_date": "",
+      "ad_present": "待实测",
+      "advertiser": "",
+      "ad_position": "",
+      "ad_format": "",
+      "headline": "",
+      "description": "",
+      "landing_page": "",
+      "screenshot": "",
+      "source_url": "",
+      "data_type": "关键词候选",
+      "cpc": "",
+      "cpc_currency": "USD",
+      "cpc_source": "",
+      "ctr": "",
+      "cpl": "",
+      "commercial_intent": "批量采购",
+      "lansen_relevance": "出现 wholesale 时，采购语义更明显；仍需结合实际搜索者身份验证。"
+    },
+    {
+      "id": "kw-005",
+      "keyword": "commercial bathroom wall panels",
+      "keyword_type": "应用词",
+      "country": "US",
+      "language": "English",
+      "search_engine": "Google",
+      "search_date": "",
+      "ad_present": "待实测",
+      "advertiser": "",
+      "ad_position": "",
+      "ad_format": "",
+      "headline": "",
+      "description": "",
+      "landing_page": "",
+      "screenshot": "",
+      "source_url": "",
+      "data_type": "关键词候选",
+      "cpc": "",
+      "cpc_currency": "USD",
+      "cpc_source": "",
+      "ctr": "",
+      "cpl": "",
+      "commercial_intent": "项目/应用需求",
+      "lansen_relevance": "适合观察酒店、商业卫生间等项目型需求是否进入搜索广告。"
+    }
+  ],
+  "measurement_plan": [
+    {
+      "stage": "01 关键词",
+      "what": "关键词文本、关键词类型、国家、语言",
+      "source": "Keyword Planner / 实际搜索词报告",
+      "status": "待采集"
+    },
+    {
+      "stage": "02 搜索量",
+      "what": "平均月度搜索量及趋势",
+      "source": "Google Keyword Planner",
+      "status": "待采集"
+    },
+    {
+      "stage": "03 竞价参考",
+      "what": "Top of page bid 等公开/账户内出价估算",
+      "source": "Google Keyword Planner",
+      "status": "待采集"
+    },
+    {
+      "stage": "04 实际广告",
+      "what": "某次真实搜索中出现的广告主、广告文案、位置、落地页",
+      "source": "实际 Google/Bing 搜索 + 截图",
+      "status": "待实测"
+    },
+    {
+      "stage": "05 实际成本",
+      "what": "真实 CPC、CTR、转化、CPL",
+      "source": "LANSEN 自有广告账户",
+      "status": "目前无实投数据"
+    }
+  ],
+  "public_reference_samples": [
+    {
+      "id": "ref-uk-001",
+      "keyword": "bathroom wall panels",
+      "country": "UK",
+      "source": "Semrush website analytics",
+      "source_date": "2026-07",
+      "search_volume": 27100,
+      "cpc": 0.66,
+      "cpc_currency": "USD",
+      "data_type": "第三方公开估算",
+      "method_note": "Semrush 在 easypanels.co.uk 页面展示的 UK 关键词样本；不是 Google Ads 账户实际支付 CPC，也不是 US 数据。",
+      "source_url": "https://www.semrush.com/website/easypanels.co.uk/overview/"
+    },
+    {
+      "id": "ref-uk-002",
+      "keyword": "shower wall panels",
+      "country": "UK",
+      "source": "Semrush website analytics",
+      "source_date": "2026-07",
+      "search_volume": 9900,
+      "cpc": 0.83,
+      "cpc_currency": "USD",
+      "data_type": "第三方公开估算",
+      "method_note": "Semrush 在 easypanels.co.uk 页面展示的 UK 关键词样本；不是 Google Ads 账户实际支付 CPC，也不是 US 数据。",
+      "source_url": "https://www.semrush.com/website/easypanels.co.uk/overview/"
+    },
+    {
+      "id": "ref-global-001",
+      "keyword": "pvc wall panel",
+      "country": "Global",
+      "source": "AdTargeting.io",
+      "source_date": "当前页面",
+      "search_volume": 110000,
+      "cpc": 0.34,
+      "cpc_currency": "USD",
+      "paid_difficulty": 100,
+      "data_type": "第三方公开估算",
+      "method_note": "第三方关键词数据库的 Global 样本；仅作公开参考，不代表 US Google Ads 实际竞价。",
+      "source_url": "https://adtargeting.io/industry/wall-decoration-keywords"
+    }
+  ],
+  "real_paid_traces": [
+    {
+      "id": "trace-au-001",
+      "keyword": "bathroom wall panels",
+      "country": "Australia",
+      "advertiser": "WallPanels.com.au",
+      "evidence": "公开页面中的链接带有 utm_source=google-ads、utm_medium=cpc，并包含 Google 点击标识参数；该页面同时介绍其 Google Ads 活动。",
+      "data_type": "真实付费搜索/点击痕迹",
+      "source_url": "https://www.houzz.com.au/discussions/6459260/accessible-bathroom-tiles",
+      "landing_page": "https://wallpanels.com.au/collections/bathroom-wall-panels",
+      "note": "这是公开网页留下的历史付费点击参数证据，不等同于当前实时广告位截图，也无法据此还原实际 CPC。"
+    }
+  ]
+}

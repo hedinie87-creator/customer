@@ -1,0 +1,119 @@
+[
+  {
+    "id": "02-01",
+    "title": "平台广告",
+    "description": "花钱让目标客户看到我。",
+    "logic": [
+      "平台广告",
+      "目标客户看到",
+      "Feed / 推荐 / Search / Shorts / Community",
+      "图片 / 视频 / Carousel / Document / Message",
+      "点击 / 互动 / 留资 / 进入主页",
+      "官网 / 表单 / 社媒主页"
+    ],
+    "items": [
+      {
+        "name": "研究平台",
+        "description": "LinkedIn、YouTube、Instagram、Facebook、TikTok、Pinterest、Reddit、X。"
+      },
+      {
+        "name": "证据要求",
+        "description": "优先官方广告说明、真实品牌广告和公开案例；没有资料就标记待补充。"
+      }
+    ]
+  },
+  {
+    "id": "02-02",
+    "title": "搜索广告",
+    "description": "客户主动搜索，我花钱让自己出现。",
+    "logic": [
+      "客户搜索",
+      "关键词",
+      "搜索引擎",
+      "广告竞价",
+      "搜索广告",
+      "点击",
+      "LANSEN官网",
+      "RFQ / Sample / WhatsApp / Email"
+    ],
+    "items": [
+      {
+        "name": "关键词",
+        "description": "产品、供应商、制造商、应用场景、问题、采购、技术、比较。"
+      },
+      {
+        "name": "示例",
+        "description": "bathroom wall panels / bathroom wall panel manufacturer / waterproof wall panel manufacturer / bathroom wall panels wholesale。"
+      },
+      {
+        "name": "事实数据库",
+        "description": "进入 02-02 搜索广告页，按关键词、搜索结果、出价估算、实际 CPC 等层级继续积累。"
+      }
+    ]
+  },
+  {
+    "id": "02-03",
+    "title": "会员 / 高级功能",
+    "description": "以 LinkedIn Sales Navigator 为例，用于搜索、筛选、保存、跟踪和触达。",
+    "logic": [
+      "目标市场",
+      "公司搜索",
+      "高级筛选",
+      "目标公司",
+      "目标角色",
+      "保存 / 观察",
+      "关系与触达"
+    ],
+    "items": [
+      {
+        "name": "边界",
+        "description": "工具不是客户名单，更不是客户保证。"
+      }
+    ]
+  },
+  {
+    "id": "02-04",
+    "title": "数据 / 获客工具",
+    "description": "花钱获得客户信息与市场信号。",
+    "logic": [
+      "公司数据",
+      "联系人数据",
+      "联系方式",
+      "关系数据",
+      "意向 / 行为信号",
+      "贸易 / 市场数据"
+    ],
+    "items": [
+      {
+        "name": "例子",
+        "description": "Apollo、Hunter、Lusha、Cognism、6sense、ImportYeti、ImportGenius。"
+      },
+      {
+        "name": "判断",
+        "description": "10万个联系人 ≠ 10万个客户；仍需验证公司、角色、行业、地区和近期需求。"
+      }
+    ]
+  },
+  {
+    "id": "02-05",
+    "title": "付费内容 / 合作",
+    "description": "借别人的流量与专业影响力。",
+    "logic": [
+      "付费合作",
+      "行业媒体 / Newsletter / KOL / Webinar",
+      "目标受众",
+      "阅读 / 点击 / 注册 / 互动",
+      "官网 / 内容 / 联系方式"
+    ],
+    "items": [
+      {
+        "name": "公开价格",
+        "description": "仅记录公开市场参考，并注明数据口径、时间和来源。"
+      },
+      {
+        "name": "注意",
+        "description": "粉丝数量不等于有效 B2B 受众。"
+      }
+    ]
+  }
+]

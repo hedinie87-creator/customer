@@ -1,0 +1,2 @@
+[
+{"id":"05-01","title":"客户验证路径","description":"客户看到 LANSEN 后，会自己查什么？真实行为可能跳跃，不强制为线性漏斗。","logic":["看到 LANSEN","谁是你？","卖什么？","适合我的项目吗？","参数 / 安装 / 案例 / 能力","信任验证","联系方式"],"items":[{"name":"产品验证","description":"产品页、目录、参数、应用、安装、FAQ。"},{"name":"信任验证","description":"公司信息、案例、认证 / 检测、技术资料。"},{"name":"转化入口","description":"RFQ、Sample Request、WhatsApp、Email。"},{"name":"可能路径","description":"Google → 官网 → 产品 → 案例 → LinkedIn → Google → 技术资料 → Inquiry。"}]}]

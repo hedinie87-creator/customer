@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',async()=>{const box=document.getElementById('platform-list');if(!box)return;const data=await loadJSON('../data/platforms.json');renderList(box,data,createPlatformCard)});
